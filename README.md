@@ -8,6 +8,7 @@ Projeto de jogo 2D, desenvolvido como trabalho acadêmico para a disciplina de F
 Link para o jogo: https://drive.google.com/drive/folders/1_mcgY_CLYQWU_t0j5vLBPuUt134rh2uZ?usp=sharing
 
 Para acessar: 
+
   1 - clicar em jogo
   
   2 - dentro da pasta, encontrar o arquivo chamado "jogo.exe"
