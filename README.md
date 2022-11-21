@@ -9,5 +9,6 @@ Link para o jogo: https://drive.google.com/drive/folders/1_mcgY_CLYQWU_t0j5vLBPu
 
 Para acessar: 
   1 - clicar em jogo
+  
   2 - dentro da pasta, encontrar o arquivo chamado "jogo.exe"
  
